@@ -1,0 +1,15 @@
+{
+  "name": "sehouli/phpreview",
+  "autoload": {
+    "psr-4": {
+      "Sehouli\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Hamza Sehouli",
+      "email": "sehoulihamza@yahoo.com"
+    }
+  ],
+  "require": {}
+}
